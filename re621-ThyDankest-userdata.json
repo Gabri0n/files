@@ -1,0 +1,190 @@
+{
+    "meta": "re621/1.0",
+    "re621.TagTracker": {
+        "enabled": true,
+        "updateInterval": 3600000,
+        "cacheMaxAge": 0,
+        "cacheSize": 500,
+        "hideMinorButton": false,
+        "lastUpdate": 1702075492575,
+        "lastAttempt": 0
+    },
+    "re621.PoolTracker": {
+        "enabled": true,
+        "updateInterval": 3600000,
+        "cacheMaxAge": 0,
+        "cacheSize": 20,
+        "hideMinorButton": false,
+        "lastUpdate": 1702075489805,
+        "lastAttempt": 0
+    },
+    "re621.ForumTracker": {
+        "enabled": true,
+        "updateInterval": 3600000,
+        "cacheMaxAge": 0,
+        "cacheSize": 20,
+        "hideMinorButton": false,
+        "lastUpdate": 1702075490600,
+        "lastAttempt": 0
+    },
+    "re621.CommentTracker": {
+        "enabled": true,
+        "updateInterval": 3600000,
+        "cacheMaxAge": 0,
+        "cacheSize": 20,
+        "hideMinorButton": false,
+        "lastUpdate": 1702075488187,
+        "lastAttempt": 0
+    },
+    "re621.FormattingHelper": {},
+    "re621.HeaderCustomizer": {
+        "enabled": true,
+        "hotkeyTab1": "1",
+        "hotkeyTab2": "2",
+        "hotkeyTab3": "3",
+        "hotkeyTab4": "4",
+        "hotkeyTab5": "5",
+        "hotkeyTab6": "6",
+        "hotkeyTab7": "7",
+        "hotkeyTab8": "8",
+        "hotkeyTab9": "9",
+        "tabs": [
+            {
+                "name": "Profile",
+                "href": "/users/%userid%"
+            },
+            {
+                "name": "Posts",
+                "href": "/posts"
+            },
+            {
+                "name": "Pools",
+                "href": "/pools"
+            },
+            {
+                "name": "Favorites",
+                "href": "https://e621.net/favorites"
+            },
+            {
+                "name": "Help",
+                "href": "https://e621.net/users/help"
+            },
+            {
+                "name": "More »",
+                "href": "/static/site_map"
+            }
+        ],
+        "forumUpdateDot": true
+    },
+    "re621.ThemeCustomizer": {},
+    "re621.DownloadCustomizer": {},
+    "re621.ImageScaler": {},
+    "re621.PostViewer": {},
+    "re621.PoolNavigator": {},
+    "re621.TitleCustomizer": {},
+    "re621.BlacklistEnhancer": {},
+    "re621.CustomFlagger": {
+        "enabled": true
+    },
+    "re621.ThumbnailTweaks": {},
+    "re621.BetterSearch": {
+        "enabled": true,
+        "imageLoadMethod": "hover",
+        "autoPlayGIFs": true,
+        "maxPlayingGIFs": 5,
+        "imageSizeChange": false,
+        "imageWidth": 150,
+        "imageRatioChange": false,
+        "imageRatio": 0.9,
+        "imageMinWidth": 50,
+        "compactMode": true,
+        "hoverTags": false,
+        "ribbonsRel": true,
+        "ribbonsFlag": true,
+        "ribbonsAlt": false,
+        "buttonsVote": true,
+        "buttonsFav": true,
+        "clickAction": "newtab",
+        "infiniteScroll": true,
+        "loadAutomatically": true,
+        "loadPrevPages": false,
+        "hidePageBreaks": true,
+        "highlightVisited": true,
+        "hideSmartAliasOutput": false,
+        "hideInfoBar": false,
+        "colorFavCount": true,
+        "customFlagsExpanded": false,
+        "thumbnailResizeButtons": true
+    },
+    "re621.InstantFilters": {},
+    "re621.HoverZoom": {
+        "enabled": true,
+        "mode": "hover",
+        "tags": true,
+        "time": true,
+        "zoomDelay": 0,
+        "stickyShift": false,
+        "hotkeyDownload": "",
+        "hotkeyFullscreen": ""
+    },
+    "re621.ProgressTracker": {},
+    "re621.PostSuggester": {},
+    "re621.SearchUtilities": {
+        "enabled": true,
+        "improveTagCount": true,
+        "shortenTagNames": true,
+        "hidePlusMinusIcons": false,
+        "autoFocusSearch": false,
+        "collapseCategories": true,
+        "categoryData": [
+            "artist"
+        ],
+        "persistentTags": "",
+        "quickBlacklist": true,
+        "trimQueryParameters": true,
+        "hotkeyFocusSearch": "q",
+        "hotkeyRandomPost": "r",
+        "hotkeySwitchModeView": "",
+        "hotkeySwitchModeEdit": "",
+        "hotkeySwitchModeOpen": "",
+        "hotkeySwitchModeAddFav": "",
+        "hotkeySwitchModeRemFav": "",
+        "hotkeySwitchModeAddSet": "",
+        "hotkeySwitchModeRemSet": "",
+        "hotkeySwitchModeBlacklist": "",
+        "hotkeySwitchModeScript": "",
+        "hotkeyScriptOne": "alt+1|",
+        "hotkeyScriptTwo": "alt+2|",
+        "hotkeyScriptThree": "alt+3|",
+        "hotkeyScriptFour": "alt+4|",
+        "hotkeyScriptFive": "alt+5|",
+        "hotkeyScriptSix": "alt+6|",
+        "hotkeyScriptSeven": "alt+7|",
+        "hotkeyScriptEight": "alt+8|",
+        "hotkeyScriptNine": "alt+9|",
+        "hotkeyScriptTen": "alt+0|"
+    },
+    "re621.Miscellaneous": {},
+    "re621.SmartAlias": {},
+    "re621.TagSuggester": {},
+    "re621.EditTracker": {},
+    "re621.WikiEnhancer": {},
+    "re621.UploadUtilities": {},
+    "re621.ScriptAssistant": {},
+    "re621.CommentBlacklist": {},
+    "re621.JanitorEnhancements": {},
+    "re621.FavDownloader": {},
+    "re621.PoolDownloader": {},
+    "re621.MassDownloader": {},
+    "re621.SubscriptionManager": {
+        "cacheVersion": 3
+    },
+    "re621.CompatibilityPatcher": {},
+    "re621.SettingsController": {},
+    "re621.TagTracker.list": [
+        "its-holt"
+    ],
+    "re621.PoolTracker.list": [],
+    "re621.ForumTracker.list": [],
+    "re621.CommentTracker.list": []
+}
