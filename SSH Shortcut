@@ -1,1 +1,2 @@
-C:\Windows\System32\cmd.exe /k ssh gmarty@10.0.0.25
+C:\Windows\System32\cmd.exe reset & /k ssh gmarty@10.0.0.25
+C:\Windows\System32\cmd.exe reset & /k ssh gmarty@10.0.0.45
